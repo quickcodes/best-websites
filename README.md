@@ -9,3 +9,4 @@
 
 ## FOR RANDOM TEXT
 - https://www.lipsum.com
+- https://freeicons.io/
