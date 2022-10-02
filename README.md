@@ -25,3 +25,6 @@
 
 ## Readme profile generator
 - https://rahuldkjain.github.io/gh-profile-readme-generator/
+
+## Old Cartoons
+- https://wcfun.net
