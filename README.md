@@ -1,7 +1,7 @@
 # best-websites
 
 ## Json To Class
-https://app.quicktype.io/
+- https://app.quicktype.io/
 
 ## FOR FREE IMAGES
 - https://pixabay.com
