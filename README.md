@@ -1,6 +1,11 @@
 # best-websites
 
-## Resume
+## Youtube Playlists
+### - Flutter Getx
+- https://youtube.com/playlist?list=PLCaS22Sjc8YR32XmudgmVqs49t-eKKr9t
+
+
+## Resume Demo
 - http://www.davisr.me/work/
 
 ## Json To Class
@@ -23,7 +28,7 @@
 ## Remove Background
 - https://www.remove.bg/
 
-## Resume 
+## Resume Maker
 - https://app.enhancv.com/
 
 ## Banners
