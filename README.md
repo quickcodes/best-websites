@@ -1,9 +1,10 @@
-# best-websites
+# Collection of best websites and Url's 
 
 ## Youtube Playlists
 #### Flutter 
 - Ripples Code Getx https://youtube.com/playlist?list=PLCaS22Sjc8YR32XmudgmVqs49t-eKKr9t
 - Exception Handling https://www.youtube.com/watch?v=4x-WjK8kl0E
+- Change Language https://www.youtube.com/watch?v=o78o82F3cl0&list=PLFyjjoCMAPtwnyq0HTRIadv-yxRuhKSYX&index=6
 #### Machine Learning & Neural Networks
 - Five Minuite Enginerring ML https://youtube.com/playlist?list=PLYwpaL_SFmcBhOEPwf5cFwqo5B-cP9G4P 
 - 3Blue1Brown NN https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
