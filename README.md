@@ -4,7 +4,10 @@
 #### Flutter 
 - Getx Playlist by Ripples Code  https://youtube.com/playlist?list=PLCaS22Sjc8YR32XmudgmVqs49t-eKKr9t
 - Exception Handling https://www.youtube.com/watch?v=4x-WjK8kl0E
-- Change Language https://www.youtube.com/watch?v=o78o82F3cl0&list=PLFyjjoCMAPtwnyq0HTRIadv-yxRuhKSYX&index=6
+- Change Language https://youtu.be/o78o82F3cl0
+- Image picker https://youtu.be/TUX1DAlzEmE
+- Api login... flow https://youtu.be/hiOqM5zUwIQ
+- Why use Getx, Provider, Bloc https://youtu.be/pz-jg-zqLOE
 #### Machine Learning & Neural Networks
 - ML playlist by Five Minuite Enginerring https://youtube.com/playlist?list=PLYwpaL_SFmcBhOEPwf5cFwqo5B-cP9G4P 
 - NN by 3Blue1Brown https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
