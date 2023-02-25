@@ -9,6 +9,7 @@
 - Api login... flow https://youtu.be/hiOqM5zUwIQ
 - Why use Getx, Provider, Bloc https://youtu.be/pz-jg-zqLOE
 - Splash Screen using Getx https://youtu.be/sQpOTS01yZg
+- Understand Different methods of getx https://youtu.be/MVfy5LiK3rA
 #### Machine Learning & Neural Networks
 - ML playlist by Five Minuite Enginerring https://youtube.com/playlist?list=PLYwpaL_SFmcBhOEPwf5cFwqo5B-cP9G4P 
 - NN by 3Blue1Brown https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
