@@ -1,6 +1,8 @@
 # Collection of best websites and Url's 
 
 ## Youtube Playlists
+#### DSA/CP
+- DSA/CP course by luv https://youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-
 #### Flutter 
 - Getx Playlist by Ripples Code  https://youtube.com/playlist?list=PLCaS22Sjc8YR32XmudgmVqs49t-eKKr9t
 - Exception Handling https://www.youtube.com/watch?v=4x-WjK8kl0E
