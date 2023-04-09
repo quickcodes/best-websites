@@ -6,6 +6,7 @@
 - 450 questons sol playlist https://youtube.com/playlist?list=PLlGpFGXC9XnYOMturcfblGyym6wPGGvKF
 - DSA/CP course by luv https://youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-
 #### Flutter 
+- Understsand BuildContext https://youtu.be/iNgwFMm3opE
 - Bloc Playlist by Flutterly https://youtube.com/playlist?list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o
 - Getx Playlist by Ripples Code  https://youtube.com/playlist?list=PLCaS22Sjc8YR32XmudgmVqs49t-eKKr9t
 - Exception Handling https://www.youtube.com/watch?v=4x-WjK8kl0E
