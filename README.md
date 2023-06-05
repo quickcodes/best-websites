@@ -55,3 +55,6 @@
 
 ## Old Cartoons
 - https://wcofun.net
+
+## Torrent
+- https://good-torrent.com/
