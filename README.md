@@ -58,3 +58,4 @@
 
 ## Torrent
 - https://good-torrent.com/
+- https://torlock.g3g.ink/
