@@ -14,10 +14,10 @@ https://blog.logrocket.com/launching-urls-flutter-url_launcher/#:~:text=The%20UR
 
 ### Flutter Setup Script:
 https://github.com/quickcodes/flutter_setup
+- After cloning repo open Linux Terminal. For windows open bash terminal run './setup_sh'
 
 ###  Firebase Notification:
 https://firebase.google.com/docs/reference/fcm/rest/v1/projects.messages#AndroidNotification
-- After cloning repo open Linux Terminal. For windows open bash terminal run './setup_sh'
 
 
 
