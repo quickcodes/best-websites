@@ -1,8 +1,12 @@
 # Collection of best websites and Url's 
 
-## PlayStore
+## https://dhruv-soni-368b6.web.app/
+
+## PlayStore/AppStore
 - https://play.google.com/store/apps/details?id=simulatoremotes.diamondtipsandtricks.machineskincollection
 - https://play.google.com/store/apps/details?id=com.job.portal
+- https://play.google.com/store/apps/details?id=com.qp.jplayer
+- https://apps.apple.com/us/app/beeasy-from-avn/id6446623618
 
 ## Flutter Documentation
 ### URL LAUNCHER:
