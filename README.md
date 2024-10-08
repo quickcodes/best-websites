@@ -1,5 +1,23 @@
 # Collection of best websites and Url's 
 
+## PlayStore
+- https://play.google.com/store/apps/details?id=simulatoremotes.diamondtipsandtricks.machineskincollection
+- https://play.google.com/store/apps/details?id=com.job.portal
+
+## Flutter Documentation
+URL LAUNCHER: 
+https://blog.logrocket.com/launching-urls-flutter-url_launcher/#:~:text=The%20URL%20Launcher%20is%20a,applications%20using%20different%20URL%20schemes
+
+## Flutter Setup Script:
+https://github.com/quickcodes/flutter_setup
+
+##  Firebase Notification:
+https://firebase.google.com/docs/reference/fcm/rest/v1/projects.messages#AndroidNotification
+After cloning repo open Linux Terminal. For windows open bash terminal
+./setup_sh
+
+
+
 ## Youtube Playlists
 #### DSA/CP
 - 450 final questions https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
