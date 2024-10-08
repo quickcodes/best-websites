@@ -5,7 +5,7 @@
 - https://play.google.com/store/apps/details?id=com.job.portal
 
 ## Flutter Documentation
-URL LAUNCHER: 
+URL LAUNCHER:
 https://blog.logrocket.com/launching-urls-flutter-url_launcher/#:~:text=The%20URL%20Launcher%20is%20a,applications%20using%20different%20URL%20schemes
 
 ## Flutter Setup Script:
