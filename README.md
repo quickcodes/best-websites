@@ -17,8 +17,7 @@ https://github.com/quickcodes/flutter_setup
 
 ###  Firebase Notification:
 https://firebase.google.com/docs/reference/fcm/rest/v1/projects.messages#AndroidNotification
-After cloning repo open Linux Terminal. For windows open bash terminal
-./setup_sh
+- After cloning repo open Linux Terminal. For windows open bash terminal run './setup_sh'
 
 
 
