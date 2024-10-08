@@ -5,13 +5,13 @@
 - https://play.google.com/store/apps/details?id=com.job.portal
 
 ## Flutter Documentation
-URL LAUNCHER:
+### URL LAUNCHER:
 https://blog.logrocket.com/launching-urls-flutter-url_launcher/#:~:text=The%20URL%20Launcher%20is%20a,applications%20using%20different%20URL%20schemes
 
-## Flutter Setup Script:
+### Flutter Setup Script:
 https://github.com/quickcodes/flutter_setup
 
-##  Firebase Notification:
+###  Firebase Notification:
 https://firebase.google.com/docs/reference/fcm/rest/v1/projects.messages#AndroidNotification
 After cloning repo open Linux Terminal. For windows open bash terminal
 ./setup_sh
